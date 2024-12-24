@@ -1,4 +1,8 @@
 ## Hi there 👋
+<picture>
+  <source srcset="banner-dark-mode.jpg" media="(prefers-color-scheme: dark)">
+  <img src="banner-light-mode.jpg" alt="Banner image for your profile">
+</picture>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
