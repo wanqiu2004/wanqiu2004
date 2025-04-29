@@ -1,7 +1,6 @@
 ## Hi there 👋
 <picture>
-   <source srcset="banner-dark-mode.jpg" media="(prefers-color-scheme: dark)">
-   <img src="banner-light-mode.jpg" alt="Banner image for your profile">
+   <img src="https://d1.faiusr.com/4/AAEIABAEGAAgs5KGmQYorfaOuwQ.png" alt="Banner image for your profile">
 </picture>
 
 - 🔭 I’m currently working on ...
