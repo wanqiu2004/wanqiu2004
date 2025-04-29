@@ -1,6 +1,7 @@
 ## Hi there 👋
 <picture>
-  <img src="[https://st-gdx.dancf.com/gaodingx/0/uxms/design/20210618-111414-c10b.png?x-oss-process=image/resize,w_1964,type_6/sharpen,120/interlace,1/format,webp](https://gd-hbimg.huaban.com/20f62a99e7b9684f0d76839ad67cba0cc3acd3654ff53-fPyXto_fw480webp)" alt="Banner image for your profile">
+   <source srcset="banner-dark-mode.jpg" media="(prefers-color-scheme: dark)">
+   <img src="banner-light-mode.jpg" alt="Banner image for your profile">
 </picture>
 
 - 🔭 I’m currently working on ...
