@@ -1,6 +1,6 @@
 ## Hi there 👋
 <picture>
-   <img src="https://d1.faiusr.com/4/AAEIABAEGAAgs5KGmQYorfaOuwQ.png" alt="Banner image for your profile">
+   <img src="https://wanqiu.cloudns.ch:4433/banner/动漫场景-小新.png" alt="Banner image for your profile">
 </picture>
 
 - 🔭 I’m currently working on ...
