@@ -1,6 +1,6 @@
 ## Hi there 👋
 <picture>
-   <img src="https://wanqiu.cloudns.ch:4433/banner/动漫场景-小新.png" alt="Banner image for your profile">
+   <img src="https://wanqiu.cloudns.ch:4433/banner/%E5%8A%A8%E6%BC%AB%E5%9C%BA%E6%99%AF-%E5%B0%8F%E6%96%B0.png" alt="Banner image for your profile">
 </picture>
 
 - 🔭 I’m currently working on ...
