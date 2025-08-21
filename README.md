@@ -160,7 +160,7 @@ CREATE TABLE sessions (
 ## 三、Linux 目录结构
 
 ```
-/srv/myapp/
+/srv/app/
 │── backend/               # 后端服务
 │── frontend/              # Vue3 前端
 │── data/
